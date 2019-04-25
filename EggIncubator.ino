@@ -85,12 +85,12 @@
 //#define DHTTYPE    DHT21     // DHT 21 (AM2301)
 
 #ifdef DEMO
- #define TempMIN 31.00     // Minimum incubator temperature
- #define TempMAX 32.00     // Maximum incubator temperature
+ #define TempMIN 29.00     // Minimum incubator temperature
+ #define TempMAX 30.00     // Maximum incubator temperature
  #define TimeIntervalToTurnOverEggs 1 // Defines the time to turn over the eggs, in minutes or hours
 #else
- #define TempMIN 36.30     // Minimum incubator temperature
- #define TempMAX 37.40     // Maximum incubator temperature
+ #define TempMIN 37.00     // Minimum incubator temperature
+ #define TempMAX 37.80     // Maximum incubator temperature
  #define TimeIntervalToTurnOverEggs 2 // Defines the time to turn over the eggs, in minutes or hours
 #endif
 
