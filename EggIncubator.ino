@@ -593,10 +593,10 @@ void DHTSensor_setup(){
   */
   
   DHTSensorMeasures[0]=event.relative_humidity;
-  //DHTSensorMeasures[1]=event.temperature;
-  DHTSensorMeasures[1]=1.41*event.temperature-7.58;
+ 
+  DHTSensorMeasures[1]=event.temperature; // Test the sensor, compare it with an external temperature meter and if nesessary, perform callibration of the measures   
+  //DHTSensorMeasures[1]=1.41*event.temperature-7.58; // In our case, the callibration performed with linear correction y = a*x+b of the DHT sensor temperature measures 
   delayMS = sensor.min_delay;
-  
 }
 
 void ObtainDHTSensorMeasures(){
@@ -623,8 +623,9 @@ void ObtainDHTSensorMeasures(){
     //Serial.print(F("Temperature: "));
     //Serial.print(event.temperature);
     //Serial.println(F("°C"));
-    //DHTSensorMeasures[1]=event.temperature; // Test the sensor, compare it with an external temperature meter and if nesessary, perform correction the values   
-    DHTSensorMeasures[1]=1.41*event.temperature-7.58; // In our case, we had to do linear correction y = a*x+b of the DHT sensor temperature measures 
+   
+    DHTSensorMeasures[1]=event.temperature; // Test the sensor, compare it with an external temperature meter and if nesessary, perform callibration of the measures   
+    //DHTSensorMeasures[1]=1.41*event.temperature-7.58; // In our case, the callibration performed with linear correction y = a*x+b of the DHT sensor temperature measures 
     
   }
   // Get humidity event and print its value.
