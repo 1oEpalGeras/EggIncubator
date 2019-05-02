@@ -3,6 +3,9 @@
 Το σχολείο μας συμμετέχει στον 1ο Πανελλήνιο Διαγωνισμό Εκπαιδευτικής Ρομποτικής & Physical Computing Ανοικτών Τεχνολογιών 
 με την κατασκευή μιας Μηχανής Εκκόλαψης Αυγών (Κλωσσομηχανής) από την μαθητική ομάδα "Ενεργοκλαδυετές". 
 
+![alt text](https://github.com/1oEpalGeras/EggIncubator/blob/master/pictures/DSC01155.JPG)
+
+
 ΠΕΡΙΓΡΑΦΗ ΛΕΙΤΟΥΡΓΙΑΣ
 -----------------------------------------------------------------------------------
 
@@ -86,3 +89,15 @@
 
 -----------------------------------------------------------
 Συνολικό κόστος: 222,78€
+
+
+![alt text](https://github.com/1oEpalGeras/EggIncubator/blob/master/pictures/DSC01131.JPG)
+![alt text](https://github.com/1oEpalGeras/EggIncubator/blob/master/pictures/DSC01172.JPG)
+![alt text](https://github.com/1oEpalGeras/EggIncubator/blob/master/pictures/DSC01177.JPG)
+![alt text](https://github.com/1oEpalGeras/EggIncubator/blob/master/pictures/DSC01179.JPG)
+![alt text](https://github.com/1oEpalGeras/EggIncubator/blob/master/pictures/DSC01175.JPG)
+![alt text](https://github.com/1oEpalGeras/EggIncubator/blob/master/pictures/DSC01194.JPG)
+![alt text](https://github.com/1oEpalGeras/EggIncubator/blob/master/pictures/DSC01359.JPG)
+![alt text](https://github.com/1oEpalGeras/EggIncubator/blob/master/pictures/DSC01365.JPG)
+![alt text](https://github.com/1oEpalGeras/EggIncubator/blob/master/pictures/DSC01144.JPG)
+![alt text](https://github.com/1oEpalGeras/EggIncubator/blob/master/pictures/DSC01196.JPG)
