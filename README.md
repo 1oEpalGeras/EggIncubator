@@ -90,6 +90,9 @@
 |31 | Διάφορα μικροϋλικά					                              |   1    |
 |   |    Συνολικό κόστος:                                  |222,78€ |
 
+
+ΦΩΤΟΓΡΑΦΙΕΣ 
+-----------------------------------------------------------------------------------
 ![alt text](https://github.com/1oEpalGeras/EggIncubator/blob/master/pictures/DSC01131.JPG)
 ![alt text](https://github.com/1oEpalGeras/EggIncubator/blob/master/pictures/DSC01172.JPG)
 ![alt text](https://github.com/1oEpalGeras/EggIncubator/blob/master/pictures/DSC01177.JPG)
